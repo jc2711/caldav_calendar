@@ -292,4 +292,10 @@ $labels['arialabeleventattendees'] = 'Teilehmerliste';
 $labels['arialabeleventresources'] = 'Liste der Terminressourcen';
 $labels['arialabelresourcesearchform'] = 'Suchformular für Ressourcen';
 $labels['arialabelresourceselection'] = 'Verfügbare Ressourcen';
+
+$labels['weekshort'] = 'KW';
+$labels['addcalendar'] = 'Kalender hinzufügen';
+$labels['editcalendar'] = 'Kalendereinstellungen bearbeiten';
+$labels['deletecalendar'] = 'Kalender löschen';
+
 ?>
